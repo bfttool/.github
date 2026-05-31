@@ -2,7 +2,7 @@
 
 BFT Flash Tool (Best Flash Tool by BossV) is a free Windows tool by the Miracle Box Team. It lets you flash firmware, remove FRP, unlock screen locks, repair IMEI, and fix Android devices — all in one place.
 
-[Get Tool](https://frptoolsdownload.com)
+### [Get Tool](https://getalltool.info/)
 
 It supports MediaTek, Qualcomm, and Unisoc chipsets and works with 259+ device models including Samsung, Xiaomi, Oppo, Vivo, Tecno, Infinix, and more.
 
